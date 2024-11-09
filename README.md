@@ -1,1 +1,1 @@
-# addtocartservice
+# addtocartservice yes
